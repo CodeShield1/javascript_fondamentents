@@ -26,3 +26,4 @@ if (ages < 18) {
   console.log("Vous venez d’atteindre la majorité !");
 } else {
   console.log("Vous êtes majeur.");}
+
